@@ -1,0 +1,101 @@
+﻿.header {
+    background-image: linear-gradient(to right,#efd52d, #f77a13 40%, #ef1fc2 );
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
+
+.navbar {
+    background-color: #060a59;
+}
+
+#content {
+    height: 100px;
+    width: 100%;
+    background-color: #c9efbd;
+    z-index: -1;
+    
+    margin-bottom:20px;
+    
+}
+
+p {
+    margin: 35px 0px 0px 0px;
+}
+
+.thumbnail {
+    height: 200px;
+}
+
+.caption {
+    background-color: #060a59;
+    margin-top: 10px;
+}
+
+    .caption p {
+        color: white;
+        margin-top: 0px;
+    }
+
+.row {
+    margin-top: 40px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+    font-weight: lighter;
+}
+
+#contact:focus{
+    color:blue;
+}
+.contact-details {
+    background-color: #ccc9c9;
+   
+}
+
+.contact-long {
+    width: 80%;
+    height: 100px;
+    margin: 20px 0px 40px 0px;
+    font-size:4em;
+    padding-top:30px;
+
+}
+
+.contact-long, .contact-block, .impact-long {
+    background-color: #b3d5ef;
+    color:white;
+    
+}
+
+.contact-block {
+    height: 100px;
+    width: 100px;
+    margin: 0px 80px 0px 80px;
+    display: inline-block;
+}
+
+.social {
+    padding: 10px 0px 10px 0px;
+    background-color: #8aafcc;
+    margin: 20px;
+}
+.activity-block {
+    background-color: #c4c489;
+    text-align:center;
+    width:60%;
+    margin-left:20%;
+    margin-top:50px;
+}
+.impact-long{
+    height:200px;
+    width:100px;
+    margin:0px 60px 0px 60px;
+    display:inline-block;
+}
+#Dashboard-header{
+    position:relative;
+    top:-185px;
+}
